@@ -99,3 +99,4 @@ MM m̐
 H ḥ
 f ḫ
 K ẖ
+awm Ω

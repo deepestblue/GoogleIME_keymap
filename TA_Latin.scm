@@ -86,3 +86,4 @@ class numbers {
 {numbers} *
 
 K ḵ
+awm Ω
