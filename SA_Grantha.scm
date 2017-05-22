@@ -1,5 +1,5 @@
-version: 1.0
-name: ksharanam-SA_Grantha
+Version: 1.0
+Name: ksharanam-SA_Grantha
 using classes
 
 class consonants {

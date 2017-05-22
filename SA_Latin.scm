@@ -1,5 +1,5 @@
-version: 1.0
-name: ksharanam-SA_Latin
+Version: 1.0
+Name: ksharanam-SA_Latin
 using classes
 
 class consonants {

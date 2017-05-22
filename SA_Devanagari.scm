@@ -1,5 +1,5 @@
-version: 1.0
-name: ksharanam-SA_Devanagari
+Version: 1.0
+Name: ksharanam-SA_Devanagari
 using classes
 
 class consonants {

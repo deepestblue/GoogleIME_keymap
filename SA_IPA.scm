@@ -1,5 +1,5 @@
-version: 1.0
-name: ksharanam-SA_IPA
+Version: 1.0
+Name: ksharanam-SA_IPA
 using classes
 
 class consonants {

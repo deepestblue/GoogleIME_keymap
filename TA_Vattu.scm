@@ -1,5 +1,5 @@
-version: 1.0
-name: ksharanam-TA_Vattu
+Version: 1.0
+Name: ksharanam-TA_Vattu
 using classes
 
 class consonants {
